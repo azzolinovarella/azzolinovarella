@@ -8,7 +8,7 @@
 ##
 
 <p align="justify">
-  Sou um estudante de Engenharia de Instrumentação, Automação e Robótica e de Ciência da Computação na Universidade Federal do ABC (UFABC), que é apaixonado por aquilo que estuda, faz e está sempre disposto a aprender e crescer. Atualmente sou estágiário em Ciência de Dados na BuiltCode, desenvolvendo projetos na área de processamento de linguagem natural e predições com séries temporais. <br>
+  Sou um estudante de Engenharia de Instrumentação, Automação e Robótica e de Ciência da Computação na Universidade Federal do ABC (UFABC), apaixonado por aquilo que estuda, faz e sempre disposto a aprender e crescer. Atualmente sou estágiário em Ciência de Dados na BuiltCode, desenvolvendo projetos na área de processamento de linguagem natural e predições com séries temporais. <br>
   Estou sempre por aqui, é só me chamar! 
 </p>
 
