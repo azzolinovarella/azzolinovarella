@@ -1,4 +1,4 @@
-### Olá, seja bem vindx! 👋
+### Olá, seja Bem-Vindx! 👋
 
 <a href="mailto:f.azzolinovarella@gmail.com"><img height="25" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-azzolino-varella/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -26,5 +26,6 @@
     <img align="center" alt="C" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="Jupyter" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Bash" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"> 
-    <img align="center" alt="Linux" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
+    <img align="center" alt="Linux" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="BuiltCode" height="45" width="60" src="./other_icons/builtcode.png"> 
 </p>
