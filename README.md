@@ -19,7 +19,7 @@
 </div>
   
 ##
-<p align="center">
+<p align="center"><a href="https://azzolinovarella.github.io">
     <img align="center" alt="Science" height="30" src="http://ForTheBadge.com/images/badges/built-with-science.svg"><br><br>
     <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="MATLAB" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
@@ -27,5 +27,5 @@
     <img align="center" alt="Jupyter" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Bash" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"> 
     <img align="center" alt="Linux" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="BuiltCode" height="45" width="60" src="./other_icons/builtcode.png"> 
-</p>
+    <img align="center" alt="BuilestátCode" height="45" width="60" src="./other_icons/builtcode.png"> 
+</a></p>
