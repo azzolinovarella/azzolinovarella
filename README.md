@@ -8,7 +8,7 @@
 ##
 
 <p align="justify">
-  Sou Bacharel em Ciência e Tecnologia, atualmente estuando Engenharia de Instrumentação, Automação e Robótica e de Ciência da Computação na Universidade Federal do ABC (UFABC), apaixonado por aquilo que estuda, faz e sempre disposto a aprender e crescer. Atualmente sou Cientista de Dados Jr. na BuiltCode, desenvolvendo projetos na área de processamento de linguagem natural, predições com séries temporais e análise exploratória de dados . <br>
+  Sou Bacharel em Ciência e Tecnologia, atualmente estudando Engenharia de Instrumentação, Automação e Robótica e de Ciência da Computação na Universidade Federal do ABC (UFABC), apaixonado por aquilo que estuda, faz e sempre disposto a aprender e crescer. Atualmente sou Cientista de Dados Jr. na BuiltCode, desenvolvendo projetos na área de processamento de linguagem natural, predições com séries temporais e análise exploratória de dados . <br>
   Estou sempre por aqui, é só me chamar! 
 </p>
 
