@@ -8,7 +8,7 @@
 ##
 
 <p align="justify">
-  Sou Bacharel em Ciência e Tecnologia, atualmente estudando Engenharia de Instrumentação, Automação e Robótica e de Ciência da Computação na Universidade Federal do ABC (UFABC), apaixonado por aquilo que estuda, faz e sempre disposto a aprender e crescer. Atualmente sou Cientista de Dados Jr. na BuiltCode, desenvolvendo projetos na área de processamento de linguagem natural, predições com séries temporais e análise exploratória de dados . <br>
+  Sou Bacharel em Ciência e Tecnologia, atualmente estudando Engenharia de Instrumentação, Automação e Robótica e de Ciência da Computação na Universidade Federal do ABC (UFABC), apaixonado por aquilo que estuda, faz e sempre disposto a aprender e crescer. Tenho experiência acadêmica e profissional, desenvolvendo projetos na área de processamento de linguagem natural, predições com séries temporais, análise exploratória de dados, classificação de dados não estruturados e etc. <br>
   Estou sempre por aqui, é só me chamar! 
 </p>
 
@@ -27,5 +27,4 @@
     <img align="center" alt="Jupyter" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Bash" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"> 
     <img align="center" alt="Linux" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="BuilestátCode" height="45" width="60" src="./other_icons/builtcode.png"> 
 </a></p>
