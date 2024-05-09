@@ -8,7 +8,7 @@
 ##
 
 <p align="justify">
-  Sou Bacharel em Ciência e Tecnologia e en Engenharia de Instrumentação, Automação e Robótica e de Ciência da Computação pela Universidade Federal do ABC (UFABC), apaixonado por aquilo que estuda, faz e sempre disposto a aprender e crescer. Tenho experiência acadêmica e profissional, desenvolvendo projetos na área de processamento de linguagem natural, predições com séries temporais, análise exploratória de dados, classificação de dados não estruturados e etc. <br>
+  Sou Bacharel em Ciência e Tecnologia e em Engenharia de Instrumentação, Automação e Robótica pela Universidade Federal do ABC (UFABC), apaixonado por aquilo que estuda, faz e sempre disposto a aprender e crescer. Tenho experiência acadêmica e profissional, desenvolvendo projetos na área de processamento de linguagem natural, predições com séries temporais, análise exploratória de dados, classificação de dados não estruturados e etc. <br>
   Estou sempre por aqui, é só me chamar! 
 </p>
 
