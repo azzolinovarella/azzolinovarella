@@ -8,7 +8,10 @@
 ##
 
 <p align="justify">
-  Sou Pós-graduado em Ciência de Dados pelo Programa de Especialização em Software (PES) dado pelo Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE) e financiado pela Embraer, Bacharel em Ciência e Tecnologia e em Engenharia de Instrumentação, Automação e Robótica pela Universidade Federal do ABC (UFABC), apaixonado por aquilo que estuda, faz e sempre disposto a aprender e crescer. Tenho experiência acadêmica e profissional na área de ciência de dados, principalmente nas áreas de análise de dados e aprendizado de máquina. Atuei em projetos que vão desde a preparação e processamento de grandes volumes de dados, até o desenvolvimento e aprimoramento de modelos de machine learning clássico e deep learning para tarefas diversas, como classificação de imagens e predição de séries temporais. <br>
+  Sou Pós-graduado em Ciência de Dados pelo Programa de Especialização em Software (PES) dado pelo Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE) e financiado pela Embraer, Bacharel em Ciência e Tecnologia e em Engenharia de Instrumentação, Automação e Robótica pela Universidade Federal do ABC (UFABC), apaixonado por aquilo que estuda, faz e sempre disposto a aprender e crescer. <br>
+  
+  Tenho experiência acadêmica e profissional na área de ciência de dados, principalmente nas áreas de análise de dados e aprendizado de máquina. Atuei em projetos que vão desde a preparação e processamento de grandes volumes de dados, até o desenvolvimento e aprimoramento de modelos de machine learning clássico e deep learning para tarefas diversas, como classificação de imagens e predição de séries temporais. <br>
+  
   Estou sempre por aqui, é só me chamar!
 </p>
 
