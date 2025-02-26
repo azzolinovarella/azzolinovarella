@@ -14,11 +14,11 @@
   Estou sempre por aqui, é só me chamar!
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/azzolinovarella">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzolinovarella&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</div>
+</div> -->
   
 ##
 <p align="center"><a href="https://azzolinovarella.github.io">
